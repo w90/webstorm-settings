@@ -1,0 +1,31 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($END$)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="mqt" value="@media (min-width: ${styleVariables.rwd.tablet.min}) {&#10;  $END$&#10;}" description="Media queries tablet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mqd" value="@media (min-width: ${styleVariables.rwd.desktop.min}) {&#10;  $END$&#10;}" description="Media queries desktop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="isv" value="import styleVariables from '../../../constants/style-variables'" description="Import style variables" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="lang" value="{/*language=SCSS*/}$END$" description="Adds prefix comment for lang scss styled jsx" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

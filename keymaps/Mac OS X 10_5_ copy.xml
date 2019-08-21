@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Exit" />
+  <action id="OpenInBrowserGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+  <action id="tasks.close" />
+</keymap>
