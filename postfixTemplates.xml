@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="sc@userDefined" key=".sc" provider="builtin.js" language-level="ES5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="const $EXPR$ = styled.div`&#10;&#10;`" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
