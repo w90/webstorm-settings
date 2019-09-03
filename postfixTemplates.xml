@@ -1,8 +1,12 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="cn@userDefined" key=".cn" provider="builtin.js" language-level="ES5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="const $EXPR$ = React.lazy(() =&gt; import(/* webpackChunkName: &quot;$EXPR$&quot; */ ''))&#10;" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="sc@userDefined" key=".sc" provider="builtin.js" language-level="ES5" topmost="false">
       <conditions />
-      <template name="fakeKey" value="const $EXPR$ = styled.div`&#10;&#10;`" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="const $EXPR$ = styled.div`&#10;&#10;`" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
