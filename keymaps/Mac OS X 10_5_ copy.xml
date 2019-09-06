@@ -10,5 +10,8 @@
   <action id="OpenInBrowserGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="tasks.close" />
 </keymap>
