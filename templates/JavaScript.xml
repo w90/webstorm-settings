@@ -39,4 +39,19 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="irr" value="import { useDispatch, useSelector } from 'react-redux'$END$" description="Import react redux" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="usd" value="const dispatch = useDispatch()$END$" description="Use dispatch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ias" value="import { actions, selectors } from 'blockchain-wallet-v4-frontend/src/data'$END$" description="Import actions and selectors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
