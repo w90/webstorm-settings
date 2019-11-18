@@ -4,7 +4,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="scp" value="${props =&gt; props.$END$ &amp;&amp; `&#10;  &#10;`};" description="styled components props" toReformat="false" toShortenFQNames="true">
+  <template name="scp" value="${props =&gt; props.$END$ &amp;&amp; css`&#10;  &#10;`};" description="styled components props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
