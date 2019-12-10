@@ -6,7 +6,15 @@
     </template>
     <template id="iram@userDefined" key=".ram" provider="builtin.js" language-level="ES5" topmost="false">
       <conditions />
-      <template name="fakeKey" value="import {  $EXPR$  } from 'ramda'" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="import {  $EXPR$  } from 'ramda'" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="ust@userDefined" key=".ust" provider="builtin.js" language-level="ES5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="const { t } = useTranslation('$EXPR$', { useSuspense: false })&#10;" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="t@userDefined" key=".t" provider="builtin.js" language-level="JSX" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="{t`$EXPR$`}" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="sc@userDefined" key=".sc" provider="builtin.js" language-level="ES5" topmost="false">
       <conditions />
