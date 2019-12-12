@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Exit" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="OpenInBrowserGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
