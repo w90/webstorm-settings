@@ -75,4 +75,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="isc" value="import styled from 'styled-components'" description="Import styled components" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
