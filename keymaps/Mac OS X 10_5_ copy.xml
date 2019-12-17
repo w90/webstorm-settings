@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Exit" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
