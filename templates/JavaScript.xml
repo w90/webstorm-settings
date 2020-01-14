@@ -80,4 +80,14 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="irn" value="import { View } from 'react-native'$END$" description="import react-native" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="irea" value="import React from 'react'$END$" description="import react" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
