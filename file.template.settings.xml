@@ -4,6 +4,7 @@
       <template name="1ReactComponentContainer.js" reformat="true" live-template-enabled="true" />
       <template name="2ReactComponentTemplate.js" reformat="true" live-template-enabled="true" />
       <template name="React.js" reformat="true" live-template-enabled="true" />
+      <template name="ReactNativeScreen.tsx" reformat="true" live-template-enabled="true" />
       <template name="ReactStyledComponent.js" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
