@@ -90,4 +90,14 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="usn" value="const navigation = useNavigation()$END$" description="Use navigation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="iusn" value="import { useNavigation } from '@react-navigation/native';$END$" description="import Use navigation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
