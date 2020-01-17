@@ -20,6 +20,10 @@
       <conditions />
       <template name="fakeKey" value="import {  $EXPR$  } from 'ramda'" description="" toReformat="true" toShortenFQNames="true" />
     </template>
+    <template id="scn@userDefined" key=".scn" provider="builtin.js" language-level="JS_1_5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="export const $EXPR$ = styled(View)`&#10;&#10;`" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="t@userDefined" key=".t" provider="builtin.js" language-level="JSX" topmost="false">
       <conditions />
       <template name="fakeKey" value="{t`$EXPR$`}" description="" toReformat="true" toShortenFQNames="true" />

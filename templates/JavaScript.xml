@@ -110,4 +110,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="iscn" value="import { styled } from 'styled-components/native'$END$" description="Import styled components native" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
