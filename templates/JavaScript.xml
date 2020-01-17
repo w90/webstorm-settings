@@ -105,4 +105,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="ithe" value="import { useTheme } from 'react-native-paper'$END$" description="Import useTheme" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
