@@ -100,4 +100,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="isto" value="import { actions, selectors } from 'store'$END$" description="import store elements" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
