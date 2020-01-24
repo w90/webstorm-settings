@@ -13,7 +13,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="TOOLTIPS_DELAY_MS" value="1" />
+    <option name="TOOLTIPS_DELAY_MS" value="200" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="JSEditorOptions">
