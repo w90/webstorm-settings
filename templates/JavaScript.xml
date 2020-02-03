@@ -115,4 +115,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="spc" value="${spacing.$END$};" description="styled spacing" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
