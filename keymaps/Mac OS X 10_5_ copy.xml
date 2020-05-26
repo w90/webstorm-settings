@@ -26,6 +26,10 @@
   <action id="OpenInBrowserGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SaveAs" />
   <action id="Uml.ShowDiff" />
   <action id="osmedile.intellij.stringmanip.DuplicateAndIncrementAction">
     <keyboard-shortcut first-keystroke="shift meta d" />
