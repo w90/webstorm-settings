@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="ssh://pi@raspberrypi.local:22/usr/bin/node" HOST="raspberrypi.local" PORT="22" USERNAME="pi" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/home/pi/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="14.3.0" />
+  </component>
+</application>
