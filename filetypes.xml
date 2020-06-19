@@ -5,6 +5,7 @@
       <mapping pattern="useFlashAnimation.js" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="useRoomInvitationInit" type="PLAIN_TEXT" />
+      <mapping ext="tsx1" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
