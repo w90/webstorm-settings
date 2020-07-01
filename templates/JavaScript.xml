@@ -125,9 +125,4 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="min" value="${minWidth(1024, css`&#10;  $END$&#10;`)};" description="minWidth react native" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
 </templateSet>

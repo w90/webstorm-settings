@@ -4,11 +4,11 @@
     <property name="created">2018-06-13T18:50:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-10T15:51:00</property>
+    <property name="modified">2020-01-13T11:52:04</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -1329,11 +1329,6 @@
     <option name="JS.NUMBER">
       <value>
         <option name="FOREGROUND" value="f775e0" />
-      </value>
-    </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="cf3f7" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
